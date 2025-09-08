@@ -97,8 +97,6 @@ export default function App() {
       >
         <p>Bạn có chắc muốn xóa kho này?</p>
       </Modal>
-
-      {/* Modal Sửa */}
       <Modal
         title="Chỉnh sửa kho"
         open={isEditModal}
